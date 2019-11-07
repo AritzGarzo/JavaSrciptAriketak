@@ -1,2 +1,2 @@
-# JavaSrciptAriketak
+# JavaScriptAriketak
 Oinarri metologikoko javascript-eko ariketak
